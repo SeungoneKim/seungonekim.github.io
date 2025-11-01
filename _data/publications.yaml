@@ -12,18 +12,6 @@ papers:
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2505.10185"
     selected: y
-
-  - title: "Reasoning Models Better Express Their Confidence"
-    authors: "Dongkeun Yoon, <b><u>Seungone Kim</u></b>, Sohee Yang, Sunkyoung Kim, Soyeon Kim, Yongil Kim, Eunbi Choi, Yireun Kim, Minjoon Seo"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2505.14489"
-    selected: y
-
-  - title: "Web-Shepherd: Advancing PRMs for Reinforcing Web Agents"
-    authors: "Hyungjoo Chae, Sunghwan Kim, Junhee Cho, <b><u>Seungone Kim</u></b>, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, Dongjin Kang, Jinyoung Yeo"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://www.arxiv.org/abs/2505.15277"
-    selected: y
   
   - title: "Let's Predict Sentence by Sentence"
     authors: "Hyeonbin Hwang, Byeongguk Jeon, <b><u>Seungone Kim</u></b>, Jiyeon Kim, Hoyeon Chang, Sohee Yang, Seungpil Won, Dohaeng Lee, Youbin Ahn, Minjoon Seo"
@@ -44,8 +32,20 @@ papers:
     code: "https://github.com/guijinSON/MM-Eval"
     selected: y
 
-  - title: "M-Prometheus: A Suite of Open Multilingual LLM Judges"
+  - title: "Reasoning Models Better Express Their Confidence"
     year: 2025
+    authors: "Dongkeun Yoon, <b><u>Seungone Kim</u></b>, Sohee Yang, Sunkyoung Kim, Soyeon Kim, Yongil Kim, Eunbi Choi, Yireun Kim, Minjoon Seo"
+    venue: "NeurIPS 2025"
+    paper_pdf: "https://arxiv.org/abs/2505.14489"
+    selected: y
+
+  - title: "Web-Shepherd: Advancing PRMs for Reinforcing Web Agents"
+    authors: "Hyungjoo Chae, Sunghwan Kim, Junhee Cho, <b><u>Seungone Kim</u></b>, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, Dongjin Kang, Jinyoung Yeo"
+    venue: "NeurIPS 2025"
+    paper_pdf: "https://www.arxiv.org/abs/2505.15277"
+    selected: y
+
+  - title: "M-Prometheus: A Suite of Open Multilingual LLM Judges"
     authors: "Jose Pombal, Dongkeun Yoon, Patrick Fernandes, Ian Wu, <b><u>Seungone Kim</u></b>, Ricardo Rei, Graham Neubig, Andre F.T. Martins"
     venue: "COLM 2025"
     paper_pdf: "https://arxiv.org/abs/2504.04953"

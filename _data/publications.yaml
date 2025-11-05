@@ -45,6 +45,12 @@ papers:
     paper_pdf: "https://www.arxiv.org/abs/2505.15277"
     selected: y
 
+  - title: "Measuring Sycophancy of Language Models in Multi-turn Dialogues"
+    authors: "Jiseung Hong, Grace Byun, <b><u>Seungone Kim</u></b>, Kai Shu, Jinho D. Choi"
+    venue: "EMNLP 2025"
+    paper_pdf: "https://arxiv.org/abs/2505.23840"
+    selected: y
+
   - title: "M-Prometheus: A Suite of Open Multilingual LLM Judges"
     authors: "Jose Pombal, Dongkeun Yoon, Patrick Fernandes, Ian Wu, <b><u>Seungone Kim</u></b>, Ricardo Rei, Graham Neubig, Andre F.T. Martins"
     venue: "COLM 2025"

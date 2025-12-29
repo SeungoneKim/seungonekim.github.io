@@ -1,6 +1,42 @@
 papers:
-  - title: "Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators"
+  - title: "RefineBench: Evaluating Refinement Capability of Language Models via Checklists"
     year: Preprints
+    authors: "Young-Jun Lee, <b><u>Seungone Kim</u></b>, Byung-Kwan Lee, Minkyeong Moon, Yechan Hwang, Jong Myoung Kim, Graham Neubig, Sean Welleck, Ho-Jin Choi"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2511.22173"
+    selected: y
+
+  - title: "SPICE: Self-play in corpus environments improves reasoning"
+    authors: "Bo Liu, Chuanyang Jin, <b><u>Seungone Kim</u></b>, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, Jason Weston"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2510.24684"
+    selected: y
+
+  - title: "VideoJudge: Bootstrapping Enables Scalable Supervision of MLLM-as-a-Judge for Video Understanding"
+    authors: "Abdul Waheed, Zhen Wu, Dareen Alharthi, <b><u>Seungone Kim</u></b>, Bhiksha Raj"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2509.21451"
+    selected: y
+
+  - title: "OptimalThinkingBench: Evaluating over and underthinking in LLMs"
+    authors: "Pranjal Aggarwal, <b><u>Seungone Kim</u></b>, Jack Lanchantin, Sean Welleck, Jason Weston, Ilia Kulikov, Swarnadeep Saha"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2508.13141"
+    selected: y
+
+  - title: "Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning"
+    authors: "Maggie Huan, Yuetai Li, Tuney Zheng, Xiaoyu Xu, <b><u>Seungone Kim</u></b>, Minxin Du, Radha Poovendran, Graham Neubig, Xiang Yue"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2507.00432"
+    selected: y
+
+  - title: "Datasheets Aren't Enough: DataRubrics for Automated Quality Metrics and Accountability"
+    authors: "Genta Indra Winata, David Anugraha, Emmy Liu, Alham Fikri Aji, Shou-Yi Hung, Aditya Parashar, Patrick Amadeus Irawan, Ruochen Zhang, Zheng-Xin Yong, Jan Christian Blaise Cruz, Niklas Muennighoff, <b><u>Seungone Kim</u></b>, Hanyang Zhao, Sudipta Kar, Kezia Erina Suryoraharjo, M Farid Adilazuarda, En-Shiun Annie Lee, Ayu Purwarianti, Derry Tanti Wijaya, Monojit Choudhury"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2506.01789"
+    selected: y
+
+  - title: "Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators"
     authors: "<b><u>Seungone Kim</u></b>*, Ian Wu*, Jinu Lee*, Xiang Yue, Seongyun Lee, Mingyeong Moon, Kiril Gashteovski, Carolin Lawrence, Julia Hockenmaier, Graham Neubig, Sean Welleck"
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2503.19877"

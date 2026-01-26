@@ -24,12 +24,6 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2503.19877"
     code: "https://github.com/prometheus-eval/scaling-evaluation-compute"
     selected: y
-  
-  - title: "Let's Predict Sentence by Sentence"
-    authors: "Hyeonbin Hwang, Byeongguk Jeon, <b><u>Seungone Kim</u></b>, Jiyeon Kim, Hoyeon Chang, Sohee Yang, Seungpil Won, Dohaeng Lee, Youbin Ahn, Minjoon Seo"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2505.22202"
-    selected: y
 
   - title: "FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS"
     authors: "Chaeeun Kim, <b><u>Seungone Kim</u></b>"
@@ -92,6 +86,12 @@ papers:
     authors: "Jose Pombal, Dongkeun Yoon, Patrick Fernandes, Ian Wu, <b><u>Seungone Kim</u></b>, Ricardo Rei, Graham Neubig, Andre F.T. Martins"
     venue: "COLM 2025"
     paper_pdf: "https://arxiv.org/abs/2504.04953"
+    selected: y
+
+  - title: "Let's Predict Sentence by Sentence"
+    authors: "Hyeonbin Hwang, Byeongguk Jeon, <b><u>Seungone Kim</u></b>, Jiyeon Kim, Hoyeon Chang, Sohee Yang, Seungpil Won, Dohaeng Lee, Youbin Ahn, Minjoon Seo"
+    venue: "COLM 2025 RAM2 Workshop (Oral)"
+    paper_pdf: "https://arxiv.org/abs/2505.22202"
     selected: y
 
   - title: "Evaluating Language Models as Synthetic Data Generators"
@@ -179,7 +179,7 @@ papers:
 
   - title: "Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging"
     authors: "Joel Jang, <b><u>Seungone Kim</u></b>, Bill Yuchen Lin, Yizhong Wang, Jack Hessel, Luke Zettlemoyer, Hannaneh Hajishirzi, Yejin Choi, Prithviraj Ammanabrolu"
-    venue: "NeurIPS 2024 AFM Workshop"
+    venue: "NeurIPS 2024 AFM Workshop (Oral)"
     paper_pdf: "https://arxiv.org/abs/2310.11564"
     code: "https://github.com/joeljang/RLPHF"
     selected: y

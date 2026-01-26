@@ -1,27 +1,9 @@
 papers:
-  - title: "RefineBench: Evaluating Refinement Capability of Language Models via Checklists"
-    year: Preprints
-    authors: "Young-Jun Lee, <b><u>Seungone Kim</u></b>, Byung-Kwan Lee, Minkyeong Moon, Yechan Hwang, Jong Myoung Kim, Graham Neubig, Sean Welleck, Ho-Jin Choi"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2511.22173"
-    selected: y
-
   - title: "SPICE: Self-play in corpus environments improves reasoning"
+    year: Preprints
     authors: "Bo Liu, Chuanyang Jin, <b><u>Seungone Kim</u></b>, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, Jason Weston"
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2510.24684"
-    selected: y
-
-  - title: "VideoJudge: Bootstrapping Enables Scalable Supervision of MLLM-as-a-Judge for Video Understanding"
-    authors: "Abdul Waheed, Zhen Wu, Dareen Alharthi, <b><u>Seungone Kim</u></b>, Bhiksha Raj"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2509.21451"
-    selected: y
-
-  - title: "OptimalThinkingBench: Evaluating over and underthinking in LLMs"
-    authors: "Pranjal Aggarwal, <b><u>Seungone Kim</u></b>, Jack Lanchantin, Sean Welleck, Jason Weston, Ilia Kulikov, Swarnadeep Saha"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2508.13141"
     selected: y
 
   - title: "Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning"
@@ -42,12 +24,6 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2503.19877"
     code: "https://github.com/prometheus-eval/scaling-evaluation-compute"
     selected: y
-
-  - title: "The CoT Encyclopedia: Analyzing, Predicting, and Controlling how a Reasoning Model will Think"
-    authors: "Seongyun Lee*, <b><u>Seungone Kim</u></b>*, Minju Seo, Yongrae Jo, Dongyoung Go, Hyeonbin Hwang, Jinho Park, Xiang Yue, Sean Welleck, Graham Neubig, Moontae Lee, Minjoon Seo"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2505.10185"
-    selected: y
   
   - title: "Let's Predict Sentence by Sentence"
     authors: "Hyeonbin Hwang, Byeongguk Jeon, <b><u>Seungone Kim</u></b>, Jiyeon Kim, Hoyeon Chang, Sohee Yang, Seungpil Won, Dohaeng Lee, Youbin Ahn, Minjoon Seo"
@@ -66,6 +42,31 @@ papers:
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2410.17578"
     code: "https://github.com/guijinSON/MM-Eval"
+    selected: y
+
+  - title: "RefineBench: Evaluating Refinement Capability of Language Models via Checklists"
+    year: 2026
+    authors: "Young-Jun Lee*, <b><u>Seungone Kim</u></b>*, Byung-Kwan Lee, Minkyeong Moon, Yechan Hwang, Jong Myoung Kim, Graham Neubig, Sean Welleck, Ho-Jin Choi"
+    venue: "ICLR 2026"
+    paper_pdf: "https://arxiv.org/abs/2511.22173"
+    selected: y
+
+  - title: "The CoT Encyclopedia: Analyzing, Predicting, and Controlling how a Reasoning Model will Think"
+    authors: "Seongyun Lee*, <b><u>Seungone Kim</u></b>*, Minju Seo, Yongrae Jo, Dongyoung Go, Hyeonbin Hwang, Jinho Park, Xiang Yue, Sean Welleck, Graham Neubig, Moontae Lee, Minjoon Seo"
+    venue: "ICLR 2026"
+    paper_pdf: "https://arxiv.org/abs/2505.10185"
+    selected: y
+
+  - title: "OptimalThinkingBench: Evaluating over and underthinking in LLMs"
+    authors: "Pranjal Aggarwal, <b><u>Seungone Kim</u></b>, Jack Lanchantin, Sean Welleck, Jason Weston, Ilia Kulikov, Swarnadeep Saha"
+    venue: "ICLR 2026"
+    paper_pdf: "https://arxiv.org/abs/2508.13141"
+    selected: y
+
+  - title: "VideoJudge: Bootstrapping Enables Scalable Supervision of MLLM-as-a-Judge for Video Understanding"
+    authors: "Abdul Waheed, Zhen Wu, Dareen Alharthi, <b><u>Seungone Kim</u></b>, Bhiksha Raj"
+    venue: "ICLR 2026"
+    paper_pdf: "https://arxiv.org/abs/2509.21451"
     selected: y
 
   - title: "Reasoning Models Better Express Their Confidence"

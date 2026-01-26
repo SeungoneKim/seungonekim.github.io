@@ -72,7 +72,7 @@ papers:
 
   - title: "Web-Shepherd: Advancing PRMs for Reinforcing Web Agents"
     authors: "Hyungjoo Chae, Sunghwan Kim, Junhee Cho, <b><u>Seungone Kim</u></b>, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, Dongjin Kang, Jinyoung Yeo"
-    venue: "NeurIPS 2025"
+    venue: "NeurIPS 2025 (Spotlight)"
     paper_pdf: "https://www.arxiv.org/abs/2505.15277"
     selected: y
 
@@ -103,7 +103,7 @@ papers:
 
   - title: "LLM-as-an-Interviewer: Beyond Static Testing Through Dynamic LLM Evaluation"
     authors: "Eunsu Kim, Juyoung Suk, <b><u>Seungone Kim</u></b>, Niklas Muennighoff, Dongkwan Kim, Alice Oh"
-    venue: "ACL 2025 (Findings)"
+    venue: "ACL 2025 Findings"
     paper_pdf: "https://arxiv.org/abs/2412.10424"
     code: "https://github.com/interview-eval/interview-eval"
     selected: y

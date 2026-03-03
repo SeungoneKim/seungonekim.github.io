@@ -10,6 +10,7 @@ papers:
     authors: "Maggie Huan, Yuetai Li, Tuney Zheng, Xiaoyu Xu, <b><u>Seungone Kim</u></b>, Minxin Du, Radha Poovendran, Graham Neubig, Xiang Yue"
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2507.00432"
+    code: "https://github.com/ReasoningTransfer/Transferability-of-LLM-Reasoning"
     selected: y
 
   - title: "Datasheets Aren't Enough: DataRubrics for Automated Quality Metrics and Accountability"
@@ -31,24 +32,19 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2505.16409"
     selected: y
 
-  - title: "MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models"
-    authors: "Guijin Son, Dongkeun Yoon, Juyoung Suk, Javier Aula-Blasco, Mano Aslan, Vu Trong Kim, Shayekh Bin Islam, Jaume Prats-Cristia, Luc'ia Tormo-Banuelos, <b><u>Seungone Kim</u></b>"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2410.17578"
-    code: "https://github.com/guijinSON/MM-Eval"
-    selected: y
-
   - title: "RefineBench: Evaluating Refinement Capability of Language Models via Checklists"
     year: 2026
     authors: "Young-Jun Lee*, <b><u>Seungone Kim</u></b>*, Byung-Kwan Lee, Minkyeong Moon, Yechan Hwang, Jong Myoung Kim, Graham Neubig, Sean Welleck, Ho-Jin Choi"
     venue: "ICLR 2026"
     paper_pdf: "https://arxiv.org/abs/2511.22173"
+    code: "https://github.com/RefineBench/refinebench-eval"
     selected: y
 
   - title: "The CoT Encyclopedia: Analyzing, Predicting, and Controlling how a Reasoning Model will Think"
     authors: "Seongyun Lee*, <b><u>Seungone Kim</u></b>*, Minju Seo, Yongrae Jo, Dongyoung Go, Hyeonbin Hwang, Jinho Park, Xiang Yue, Sean Welleck, Graham Neubig, Moontae Lee, Minjoon Seo"
     venue: "ICLR 2026"
     paper_pdf: "https://arxiv.org/abs/2505.10185"
+    code: "https://github.com/LGAI-Research/CoT-Encyclopedia"
     selected: y
 
   - title: "OptimalThinkingBench: Evaluating over and underthinking in LLMs"
@@ -61,6 +57,13 @@ papers:
     authors: "Abdul Waheed, Zhen Wu, Dareen Alharthi, <b><u>Seungone Kim</u></b>, Bhiksha Raj"
     venue: "ICLR 2026"
     paper_pdf: "https://arxiv.org/abs/2509.21451"
+    selected: y
+
+  - title: "MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models"
+    authors: "Guijin Son, Dongkeun Yoon, Juyoung Suk, Javier Aula-Blasco, Mano Aslan, Vu Trong Kim, Shayekh Bin Islam, Jaume Prats-Cristia, Luc'ia Tormo-Banuelos, <b><u>Seungone Kim</u></b>"
+    venue: "ICLR 2026 VerifAI-2 Workshop"
+    paper_pdf: "https://arxiv.org/abs/2410.17578"
+    code: "https://github.com/guijinSON/MM-Eval"
     selected: y
 
   - title: "Reasoning Models Better Express Their Confidence"

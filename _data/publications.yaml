@@ -19,21 +19,21 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2506.01789"
     selected: y
 
-  - title: "Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators"
-    authors: "<b><u>Seungone Kim</u></b>*, Ian Wu*, Jinu Lee*, Xiang Yue, Seongyun Lee, Mingyeong Moon, Kiril Gashteovski, Carolin Lawrence, Julia Hockenmaier, Graham Neubig, Sean Welleck"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2503.19877"
-    code: "https://github.com/prometheus-eval/scaling-evaluation-compute"
-    selected: y
-
   - title: "FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS"
     authors: "Chaeeun Kim, <b><u>Seungone Kim</u></b>"
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2505.16409"
     selected: y
 
-  - title: "RefineBench: Evaluating Refinement Capability of Language Models via Checklists"
+  - title: "Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators"
     year: 2026
+    authors: "<b><u>Seungone Kim</u></b>*, Ian Wu*, Jinu Lee*, Xiang Yue, Seongyun Lee, Mingyeong Moon, Kiril Gashteovski, Carolin Lawrence, Julia Hockenmaier, Graham Neubig, Sean Welleck"
+    venue: "ACL 2026 Findings"
+    paper_pdf: "https://arxiv.org/abs/2503.19877"
+    code: "https://github.com/prometheus-eval/scaling-evaluation-compute"
+    selected: y
+
+  - title: "RefineBench: Evaluating Refinement Capability of Language Models via Checklists"
     authors: "Young-Jun Lee*, <b><u>Seungone Kim</u></b>*, Byung-Kwan Lee, Minkyeong Moon, Yechan Hwang, Jong Myoung Kim, Graham Neubig, Sean Welleck, Ho-Jin Choi"
     venue: "ICLR 2026"
     paper_pdf: "https://arxiv.org/abs/2511.22173"

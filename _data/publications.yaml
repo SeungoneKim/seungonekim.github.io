@@ -6,13 +6,6 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2510.24684"
     selected: y
 
-  - title: "Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning"
-    authors: "Maggie Huan, Yuetai Li, Tuney Zheng, Xiaoyu Xu, <b><u>Seungone Kim</u></b>, Minxin Du, Radha Poovendran, Graham Neubig, Xiang Yue"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2507.00432"
-    code: "https://github.com/ReasoningTransfer/Transferability-of-LLM-Reasoning"
-    selected: y
-
   - title: "Datasheets Aren't Enough: DataRubrics for Automated Quality Metrics and Accountability"
     authors: "Genta Indra Winata, David Anugraha, Emmy Liu, Alham Fikri Aji, Shou-Yi Hung, Aditya Parashar, Patrick Amadeus Irawan, Ruochen Zhang, Zheng-Xin Yong, Jan Christian Blaise Cruz, Niklas Muennighoff, <b><u>Seungone Kim</u></b>, Hanyang Zhao, Sudipta Kar, Kezia Erina Suryoraharjo, M Farid Adilazuarda, En-Shiun Annie Lee, Ayu Purwarianti, Derry Tanti Wijaya, Monojit Choudhury"
     venue: "Preprint Under Review"
@@ -31,6 +24,13 @@ papers:
     venue: "ACL 2026 Findings"
     paper_pdf: "https://arxiv.org/abs/2503.19877"
     code: "https://github.com/prometheus-eval/scaling-evaluation-compute"
+    selected: y
+
+  - title: "Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning"
+    authors: "Maggie Huan, Yuetai Li, Tuney Zheng, Xiaoyu Xu, <b><u>Seungone Kim</u></b>, Minxin Du, Radha Poovendran, Graham Neubig, Xiang Yue"
+    venue: "ICML 2026"
+    paper_pdf: "https://arxiv.org/abs/2507.00432"
+    code: "https://github.com/ReasoningTransfer/Transferability-of-LLM-Reasoning"
     selected: y
 
   - title: "RefineBench: Evaluating Refinement Capability of Language Models via Checklists"

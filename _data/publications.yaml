@@ -1,6 +1,12 @@
 papers:
-  - title: "SPICE: Self-play in corpus environments improves reasoning"
+  - title: "Reasoning over mathematical objects: on-policy reward modeling and test time aggregation"
     year: Preprints
+    authors: "Pranjal Aggarwal, Marjan Ghazvininejad, <b><u>Seungone Kim</u></b>, Ilia Kulikov, Jack Lanchantin, Xian Li, Tianjian Li, Bo Liu, Graham Neubig, Anaelia Ovalle, Swarnadeep Saha, Sainbayar Sukhbaatar, Sean Welleck, Jason Weston, Chenxi Whitehouse, Adina Williams, Jing Xu, Ping Yu, Weizhe Yuan, Jingyu Zhang, Wenting Zhao"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2603.18886"
+    selected: y
+  
+  - title: "SPICE: Self-play in corpus environments improves reasoning"
     authors: "Bo Liu, Chuanyang Jin, <b><u>Seungone Kim</u></b>, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, Jason Weston"
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2510.24684"

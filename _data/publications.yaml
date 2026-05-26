@@ -1,6 +1,18 @@
 papers:
-  - title: "Reasoning over mathematical objects: on-policy reward modeling and test time aggregation"
+  - title: "On the limits and opportunities of AI reviewers: Reviewing the reviews of Nature-family papers with 45 expert scientists"
     year: Preprints
+    authors: "<b><u>Seungone Kim</u></b>, Dongkeun Yoon, Kiril Gashteovski, Juyoung Suk, Jinheon Baek, Pranjal Aggarwal, Ian Wu, Viktor Zaverkin, Spase Petkoski, Daniel R Schrider, Ilija Dukovski, Francesco Santini, Biljana Mitreska, Yong Jeong, Kyeongha Kwon, Young Min Sim, Dragana Manasova, Arthur Porto, Biljana Mojsoska, Makoto Takamoto, Marko Shuntov, Ruoqi Liu, Hyunjoo Jenny Lee, Niyazi Ulas Dinç, Yehhyun Jo, Sunkyu Han, Chungwoo Lee, Huishan Li, Esther HR Tsai, Ergun Simsek, Khushboo Shafi, Yeonseung Chung, Jihye Park, Aleksandar Shulevski, Henrik Christiansen, Yoosang Son, Elly Knight, Amanda Montoya, Jeongyoun Ahn, Christian Langkammer, Heera Moon, Changwon Yoon, Nikola Stikov, Mooseok Jang, Edward Choi, Junhan Kim, Yeon Sik Jung, Woo Youn Kim, Jae Kyoung Kim, Ishraq Md Anjum, Hyun Uk Kim, Drew Bridges, Carolin Lawrence, Xiang Yue, Alice Oh, Akari Asai, Sean Welleck, Graham Neubig"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2605.20668"
+    selected: y
+
+  - title: "Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs"
+    authors: "Guijin Son, <b><u>Seungone Kim</u></b>, Catherine Arnett, Hyunwoo Ko, Hyein Lee, Hyeonah Kang, Jiang Longxi, Jin Yun, JungYup Lee, Kyungmin Lee, Sam Yoosuk Kim, Sang Park, Seunghyeok Hong, SeungJae Lee, Seungyeop Yi, Shinae Shin, SunHye Bok, Sunyoung Shin, Yonghoon Ji, Youngtaek Kim, Hanearl Jung, Akari Asai, Graham Neubig, Sean Welleck, Youngjae Yu, Alexander B Ivanov, Boboev Muhammadjon, Chaeyoung Han, Christian Stump, Dmitrii Karp, Dohyun Kwon, DoYong Kwon, Duk-Soon Oh, Giovanni Resta, Greta Panova, Huiyun Noh, Hyungryul Baik, Hyungsun Bae, Inomov Mashrafdzhon, Jeewon Kim, Ji Eun Lee, Jiaqi Liu, Jieui Kang, Jimin Kim, Jon-Lark Kim, Junseo Yoon, Junwoo Jo, Kibeom Kim, Kiwoon Kwon, Mario Kummer, Max Mercer, Minjun Kim, Nahyun Lee, Ng Ze-An, Rafał Marcin Łochowski, Raphaël Lachièze-Rey, Ruichen Zhang, Sejin Park, Seonguk Seo, Shin Jaehoon, Taewoong Eom, Yeachan Park, Yongseok Jang, Youchan Oh, Zhaoyang Wang, Zoltán Kovács"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2605.09063"
+    selected: y
+  
+  - title: "Reasoning over mathematical objects: on-policy reward modeling and test time aggregation"
     authors: "Pranjal Aggarwal, Marjan Ghazvininejad, <b><u>Seungone Kim</u></b>, Ilia Kulikov, Jack Lanchantin, Xian Li, Tianjian Li, Bo Liu, Graham Neubig, Anaelia Ovalle, Swarnadeep Saha, Sainbayar Sukhbaatar, Sean Welleck, Jason Weston, Chenxi Whitehouse, Adina Williams, Jing Xu, Ping Yu, Weizhe Yuan, Jingyu Zhang, Wenting Zhao"
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2603.18886"

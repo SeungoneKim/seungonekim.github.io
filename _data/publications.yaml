@@ -4,6 +4,13 @@ papers:
     authors: "<b><u>Seungone Kim</u></b>, Dongkeun Yoon, Kiril Gashteovski, Juyoung Suk, Jinheon Baek, Pranjal Aggarwal, Ian Wu, Viktor Zaverkin, Spase Petkoski, Daniel R Schrider, Ilija Dukovski, Francesco Santini, Biljana Mitreska, Yong Jeong, Kyeongha Kwon, Young Min Sim, Dragana Manasova, Arthur Porto, Biljana Mojsoska, Makoto Takamoto, Marko Shuntov, Ruoqi Liu, Hyunjoo Jenny Lee, Niyazi Ulas Dinç, Yehhyun Jo, Sunkyu Han, Chungwoo Lee, Huishan Li, Esther HR Tsai, Ergun Simsek, Khushboo Shafi, Yeonseung Chung, Jihye Park, Aleksandar Shulevski, Henrik Christiansen, Yoosang Son, Elly Knight, Amanda Montoya, Jeongyoun Ahn, Christian Langkammer, Heera Moon, Changwon Yoon, Nikola Stikov, Mooseok Jang, Edward Choi, Junhan Kim, Yeon Sik Jung, Woo Youn Kim, Jae Kyoung Kim, Ishraq Md Anjum, Hyun Uk Kim, Drew Bridges, Carolin Lawrence, Xiang Yue, Alice Oh, Akari Asai, Sean Welleck, Graham Neubig"
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2605.20668"
+    code: "https://github.com/prometheus-eval/cmu-paper-reviewer"
+    selected: y
+
+  - title: "K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts"
+    authors: "Nahyun Lee, Dongkeun Yoon, Guijin Son, Geewook Kim, Dayoon Ko, Jeonghun Park, Haneul Yoo, Jaewon Cho, Junghun Park, Changyoon Lee, Kyochul Jang, Jaeyeon Kim, Eunsu Kim, Woojin Cho, <b><u>Seungone Kim</u></b>,"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2606.02404"
     selected: y
 
   - title: "Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs"
@@ -12,6 +19,12 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2605.09063"
     selected: y
   
+  - title: "Verus-SpecGym: An Agentic Environment for Evaluating Specification Autoformalization"
+    authors: "Anmol Agarwal, Natalie Neamtu, Pranjal Aggarwal, <b><u>Seungone Kim</u></b>, Jannis Limperg, Cedric Flamant, Kanna Shimizu, Bryan Parno, Sean Welleck"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2605.26457"
+    selected: y
+
   - title: "Reasoning over mathematical objects: on-policy reward modeling and test time aggregation"
     authors: "Pranjal Aggarwal, Marjan Ghazvininejad, <b><u>Seungone Kim</u></b>, Ilia Kulikov, Jack Lanchantin, Xian Li, Tianjian Li, Bo Liu, Graham Neubig, Anaelia Ovalle, Swarnadeep Saha, Sainbayar Sukhbaatar, Sean Welleck, Jason Weston, Chenxi Whitehouse, Adina Williams, Jing Xu, Ping Yu, Weizhe Yuan, Jingyu Zhang, Wenting Zhao"
     venue: "Preprint Under Review"
@@ -89,18 +102,21 @@ papers:
     authors: "Dongkeun Yoon, <b><u>Seungone Kim</u></b>, Sohee Yang, Sunkyoung Kim, Soyeon Kim, Yongil Kim, Eunbi Choi, Yireun Kim, Minjoon Seo"
     venue: "NeurIPS 2025"
     paper_pdf: "https://arxiv.org/abs/2505.14489"
+    code: "https://github.com/MattYoon/reasoning-models-confidence"
     selected: y
 
   - title: "Web-Shepherd: Advancing PRMs for Reinforcing Web Agents"
     authors: "Hyungjoo Chae, Sunghwan Kim, Junhee Cho, <b><u>Seungone Kim</u></b>, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, Dongjin Kang, Jinyoung Yeo"
     venue: "NeurIPS 2025 (Spotlight)"
     paper_pdf: "https://www.arxiv.org/abs/2505.15277"
+    code: "https://github.com/kyle8581/Web-Shepherd"
     selected: y
 
   - title: "Measuring Sycophancy of Language Models in Multi-turn Dialogues"
     authors: "Jiseung Hong, Grace Byun, <b><u>Seungone Kim</u></b>, Kai Shu, Jinho D. Choi"
     venue: "EMNLP 2025"
     paper_pdf: "https://arxiv.org/abs/2505.23840"
+    code: "https://github.com/JiseungHong/SYCON-Bench"
     selected: y
 
   - title: "M-Prometheus: A Suite of Open Multilingual LLM Judges"

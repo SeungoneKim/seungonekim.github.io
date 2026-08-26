@@ -20,7 +20,7 @@ papers:
     selected: y
 
   - title: "Evolution Fine-Tuning: Learning to Discover Across 371 Optimization Tasks"
-    authors: "Young-Jun Lee, Seungone Kim, Minki Kang, Alistair Cheong Liang Chuen, Zerui Chen, Seungho Han, Taehee Jung, Dongyeop Kang"
+    authors: "Young-Jun Lee, <b><u>Seungone Kim</u></b>, Minki Kang, Alistair Cheong Liang Chuen, Zerui Chen, Seungho Han, Taehee Jung, Dongyeop Kang"
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2606.29082"
     selected: y

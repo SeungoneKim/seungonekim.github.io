@@ -70,6 +70,12 @@ papers:
     code: "https://github.com/ReasoningTransfer/Transferability-of-LLM-Reasoning"
     selected: y
 
+  - title: "Reasoning over mathematical objects: on-policy reward modeling and test time aggregation"
+    authors: "Pranjal Aggarwal, Marjan Ghazvininejad, <b><u>Seungone Kim</u></b>, Ilia Kulikov, Jack Lanchantin, Xian Li, Tianjian Li, Bo Liu, Graham Neubig, Anaelia Ovalle, Swarnadeep Saha, Sainbayar Sukhbaatar, Sean Welleck, Jason Weston, Chenxi Whitehouse, Adina Williams, Jing Xu, Ping Yu, Weizhe Yuan, Jingyu Zhang, Wenting Zhao"
+    venue: "Technical whitepaper (Meta FAIR)"
+    paper_pdf: "https://arxiv.org/abs/2603.18886"
+    selected: y
+
   - title: "RefineBench: Evaluating Refinement Capability of Language Models via Checklists"
     authors: "Young-Jun Lee*, <b><u>Seungone Kim</u></b>*, Byung-Kwan Lee, Minkyeong Moon, Yechan Hwang, Jong Myoung Kim, Graham Neubig, Sean Welleck, Ho-Jin Choi"
     venue: "ICLR 2026"
@@ -116,12 +122,6 @@ papers:
     venue: "NeurIPS 2025 (Spotlight)"
     paper_pdf: "https://www.arxiv.org/abs/2505.15277"
     code: "https://github.com/kyle8581/Web-Shepherd"
-    selected: y
-
-  - title: "Reasoning over mathematical objects: on-policy reward modeling and test time aggregation"
-    authors: "Pranjal Aggarwal, Marjan Ghazvininejad, <b><u>Seungone Kim</u></b>, Ilia Kulikov, Jack Lanchantin, Xian Li, Tianjian Li, Bo Liu, Graham Neubig, Anaelia Ovalle, Swarnadeep Saha, Sainbayar Sukhbaatar, Sean Welleck, Jason Weston, Chenxi Whitehouse, Adina Williams, Jing Xu, Ping Yu, Weizhe Yuan, Jingyu Zhang, Wenting Zhao"
-    venue: "Technical whitepaper (Meta FAIR)"
-    paper_pdf: "https://arxiv.org/abs/2603.18886"
     selected: y
   
   - title: "SPICE: Self-play in corpus environments improves reasoning"

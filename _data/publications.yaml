@@ -7,12 +7,24 @@ papers:
     code: "https://github.com/prometheus-eval/cmu-paper-reviewer"
     selected: y
 
-  - title: "K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts"
-    authors: "Nahyun Lee, Dongkeun Yoon, Guijin Son, Geewook Kim, Dayoon Ko, Jeonghun Park, Haneul Yoo, Jaewon Cho, Junghun Park, Changyoon Lee, Kyochul Jang, Jaeyeon Kim, Eunsu Kim, Woojin Cho, <b><u>Seungone Kim</u></b>,"
+  - title: "SPADE: Self-Play in Adaptive Synthetic Executable Environments"
+    authors: "Bo Liu, Simon Yu, Yiding Jiang, Ao Qu, Andrew Zhao, Zichen Liu, Junsu Kim, Zijian Zhou, <b><u>Seungone Kim</u></b>, Tongzheng Ren, Mickel Liu, Hanfei Yu, Zhaorun Chen, Weiyan Shi, Paul Pu Liang, Luke Zettlemoyer, Yejin Choi, Natasha Jaques"
     venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2606.02404"
+    paper_pdf: "https://arxiv.org/abs/2608.19197"
     selected: y
 
+  - title: "LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL"
+    authors: "Yujin Kim, Namgyu Ho, Sangmin Hwang, Joonkee Kim, Yongjin Yang, Sangmin Bae, <b><u>Seungone Kim</u></b>, Jaehun Jung, Se-Young Yun, Hwanjun Song"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2607.04412"
+    selected: y
+
+  - title: "Evolution Fine-Tuning: Learning to Discover Across 371 Optimization Tasks"
+    authors: "Young-Jun Lee, Seungone Kim, Minki Kang, Alistair Cheong Liang Chuen, Zerui Chen, Seungho Han, Taehee Jung, Dongyeop Kang"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2606.29082"
+    selected: y
+  
   - title: "Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs"
     authors: "Guijin Son, <b><u>Seungone Kim</u></b>, Catherine Arnett, Hyunwoo Ko, Hyein Lee, Hyeonah Kang, Jiang Longxi, Jin Yun, JungYup Lee, Kyungmin Lee, Sam Yoosuk Kim, Sang Park, Seunghyeok Hong, SeungJae Lee, Seungyeop Yi, Shinae Shin, SunHye Bok, Sunyoung Shin, Yonghoon Ji, Youngtaek Kim, Hanearl Jung, Akari Asai, Graham Neubig, Sean Welleck, Youngjae Yu, Alexander B Ivanov, Boboev Muhammadjon, Chaeyoung Han, Christian Stump, Dmitrii Karp, Dohyun Kwon, DoYong Kwon, Duk-Soon Oh, Giovanni Resta, Greta Panova, Huiyun Noh, Hyungryul Baik, Hyungsun Bae, Inomov Mashrafdzhon, Jeewon Kim, Ji Eun Lee, Jiaqi Liu, Jieui Kang, Jimin Kim, Jon-Lark Kim, Junseo Yoon, Junwoo Jo, Kibeom Kim, Kiwoon Kwon, Mario Kummer, Max Mercer, Minjun Kim, Nahyun Lee, Ng Ze-An, Rafał Marcin Łochowski, Raphaël Lachièze-Rey, Ruichen Zhang, Sejin Park, Seonguk Seo, Shin Jaehoon, Taewoong Eom, Yeachan Park, Yongseok Jang, Youchan Oh, Zhaoyang Wang, Zoltán Kovács"
     venue: "Preprint Under Review"
@@ -23,18 +35,6 @@ papers:
     authors: "Anmol Agarwal, Natalie Neamtu, Pranjal Aggarwal, <b><u>Seungone Kim</u></b>, Jannis Limperg, Cedric Flamant, Kanna Shimizu, Bryan Parno, Sean Welleck"
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2605.26457"
-    selected: y
-
-  - title: "Reasoning over mathematical objects: on-policy reward modeling and test time aggregation"
-    authors: "Pranjal Aggarwal, Marjan Ghazvininejad, <b><u>Seungone Kim</u></b>, Ilia Kulikov, Jack Lanchantin, Xian Li, Tianjian Li, Bo Liu, Graham Neubig, Anaelia Ovalle, Swarnadeep Saha, Sainbayar Sukhbaatar, Sean Welleck, Jason Weston, Chenxi Whitehouse, Adina Williams, Jing Xu, Ping Yu, Weizhe Yuan, Jingyu Zhang, Wenting Zhao"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2603.18886"
-    selected: y
-  
-  - title: "SPICE: Self-play in corpus environments improves reasoning"
-    authors: "Bo Liu, Chuanyang Jin, <b><u>Seungone Kim</u></b>, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, Jason Weston"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2510.24684"
     selected: y
 
   - title: "Datasheets Aren't Enough: DataRubrics for Automated Quality Metrics and Accountability"
@@ -49,8 +49,14 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2505.16409"
     selected: y
 
-  - title: "Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators"
+  - title: "K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts"
     year: 2026
+    authors: "Nahyun Lee, Dongkeun Yoon, Guijin Son, Geewook Kim, Dayoon Ko, Jeonghun Park, Haneul Yoo, Jaewon Cho, Junghun Park, Changyoon Lee, Kyochul Jang, Jaeyeon Kim, Eunsu Kim, Woojin Cho, <b><u>Seungone Kim</u></b>,"
+    venue: "EMNLP 2026 Findings"
+    paper_pdf: "https://arxiv.org/abs/2606.02404"
+    selected: y
+
+  - title: "Scaling Evaluation-time Compute with Reasoning Models as Evaluators"
     authors: "<b><u>Seungone Kim</u></b>*, Ian Wu*, Jinu Lee*, Xiang Yue, Seongyun Lee, Mingyeong Moon, Kiril Gashteovski, Carolin Lawrence, Julia Hockenmaier, Graham Neubig, Sean Welleck"
     venue: "ACL 2026 Findings"
     paper_pdf: "https://arxiv.org/abs/2503.19877"
@@ -110,6 +116,18 @@ papers:
     venue: "NeurIPS 2025 (Spotlight)"
     paper_pdf: "https://www.arxiv.org/abs/2505.15277"
     code: "https://github.com/kyle8581/Web-Shepherd"
+    selected: y
+
+  - title: "Reasoning over mathematical objects: on-policy reward modeling and test time aggregation"
+    authors: "Pranjal Aggarwal, Marjan Ghazvininejad, <b><u>Seungone Kim</u></b>, Ilia Kulikov, Jack Lanchantin, Xian Li, Tianjian Li, Bo Liu, Graham Neubig, Anaelia Ovalle, Swarnadeep Saha, Sainbayar Sukhbaatar, Sean Welleck, Jason Weston, Chenxi Whitehouse, Adina Williams, Jing Xu, Ping Yu, Weizhe Yuan, Jingyu Zhang, Wenting Zhao"
+    venue: "Technical whitepaper (Meta FAIR)"
+    paper_pdf: "https://arxiv.org/abs/2603.18886"
+    selected: y
+  
+  - title: "SPICE: Self-play in corpus environments improves reasoning"
+    authors: "Bo Liu, Chuanyang Jin, <b><u>Seungone Kim</u></b>, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, Jason Weston"
+    venue: "Technical whitepaper (Meta FAIR)"
+    paper_pdf: "https://arxiv.org/abs/2510.24684"
     selected: y
 
   - title: "Measuring Sycophancy of Language Models in Multi-turn Dialogues"

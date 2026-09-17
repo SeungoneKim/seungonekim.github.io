@@ -7,6 +7,12 @@ papers:
     code: "https://github.com/prometheus-eval/cmu-paper-reviewer"
     selected: y
 
+  - title: "Efficient Test-Time Adaptation through Human-AI Interaction"
+    authors: "Zora Zhiruo Wang, Apurva Gandhi, Rulin Shao, Aspen Chen, Jonas Mueller, Zhiqi Liang, Jett Chen, Michael Ryan, Qianou Ma, Luxi He, Zhoujun Cheng, Andre He, <b><u>Seungone Kim</u></b>, Jiayi Geng, Mingqian Zheng, Weiwei Sun, Zheyuan Zhang, Xinran Zhao, Yike Wang, Abe Hou, Liwei Jiang, Pang Wei Koh, Diyi Yang, Graham Neubig, Daniel Fried"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2609.04141"
+    selected: y
+
   - title: "SPADE: Self-Play in Adaptive Synthetic Executable Environments"
     authors: "Bo Liu, Simon Yu, Yiding Jiang, Ao Qu, Andrew Zhao, Zichen Liu, Junsu Kim, Zijian Zhou, <b><u>Seungone Kim</u></b>, Tongzheng Ren, Mickel Liu, Hanfei Yu, Zhaorun Chen, Weiyan Shi, Paul Pu Liang, Luke Zettlemoyer, Yejin Choi, Natasha Jaques"
     venue: "Preprint Under Review"

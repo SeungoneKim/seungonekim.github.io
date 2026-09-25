@@ -18,24 +18,6 @@ papers:
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2608.19197"
     selected: y
-
-  - title: "LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL"
-    authors: "Yujin Kim, Namgyu Ho, Sangmin Hwang, Joonkee Kim, Yongjin Yang, Sangmin Bae, <b><u>Seungone Kim</u></b>, Jaehun Jung, Se-Young Yun, Hwanjun Song"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2607.04412"
-    selected: y
-
-  - title: "Evolution Fine-Tuning: Learning to Discover Across 371 Optimization Tasks"
-    authors: "Young-Jun Lee, <b><u>Seungone Kim</u></b>, Minki Kang, Alistair Cheong Liang Chuen, Zerui Chen, Seungho Han, Taehee Jung, Dongyeop Kang"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2606.29082"
-    selected: y
-  
-  - title: "Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs"
-    authors: "Guijin Son, <b><u>Seungone Kim</u></b>, Catherine Arnett, Hyunwoo Ko, Hyein Lee, Hyeonah Kang, Jiang Longxi, Jin Yun, JungYup Lee, Kyungmin Lee, Sam Yoosuk Kim, Sang Park, Seunghyeok Hong, SeungJae Lee, Seungyeop Yi, Shinae Shin, SunHye Bok, Sunyoung Shin, Yonghoon Ji, Youngtaek Kim, Hanearl Jung, Akari Asai, Graham Neubig, Sean Welleck, Youngjae Yu, Alexander B Ivanov, Boboev Muhammadjon, Chaeyoung Han, Christian Stump, Dmitrii Karp, Dohyun Kwon, DoYong Kwon, Duk-Soon Oh, Giovanni Resta, Greta Panova, Huiyun Noh, Hyungryul Baik, Hyungsun Bae, Inomov Mashrafdzhon, Jeewon Kim, Ji Eun Lee, Jiaqi Liu, Jieui Kang, Jimin Kim, Jon-Lark Kim, Junseo Yoon, Junwoo Jo, Kibeom Kim, Kiwoon Kwon, Mario Kummer, Max Mercer, Minjun Kim, Nahyun Lee, Ng Ze-An, Rafał Marcin Łochowski, Raphaël Lachièze-Rey, Ruichen Zhang, Sejin Park, Seonguk Seo, Shin Jaehoon, Taewoong Eom, Yeachan Park, Yongseok Jang, Youchan Oh, Zhaoyang Wang, Zoltán Kovács"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2605.09063"
-    selected: y
   
   - title: "Verus-SpecGym: An Agentic Environment for Evaluating Specification Autoformalization"
     authors: "Anmol Agarwal, Natalie Neamtu, Pranjal Aggarwal, <b><u>Seungone Kim</u></b>, Jannis Limperg, Cedric Flamant, Kanna Shimizu, Bryan Parno, Sean Welleck"
@@ -48,15 +30,33 @@ papers:
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2506.01789"
     selected: y
+  
+  - title: "Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs"
+    year: 2026
+    authors: "Guijin Son, <b><u>Seungone Kim</u></b>, Catherine Arnett, Hyunwoo Ko, Hyein Lee, Hyeonah Kang, Jiang Longxi, Jin Yun, JungYup Lee, Kyungmin Lee, Sam Yoosuk Kim, Sang Park, Seunghyeok Hong, SeungJae Lee, Seungyeop Yi, Shinae Shin, SunHye Bok, Sunyoung Shin, Yonghoon Ji, Youngtaek Kim, Hanearl Jung, Akari Asai, Graham Neubig, Sean Welleck, Youngjae Yu, Alexander B Ivanov, Boboev Muhammadjon, Chaeyoung Han, Christian Stump, Dmitrii Karp, Dohyun Kwon, DoYong Kwon, Duk-Soon Oh, Giovanni Resta, Greta Panova, Huiyun Noh, Hyungryul Baik, Hyungsun Bae, Inomov Mashrafdzhon, Jeewon Kim, Ji Eun Lee, Jiaqi Liu, Jieui Kang, Jimin Kim, Jon-Lark Kim, Junseo Yoon, Junwoo Jo, Kibeom Kim, Kiwoon Kwon, Mario Kummer, Max Mercer, Minjun Kim, Nahyun Lee, Ng Ze-An, Rafał Marcin Łochowski, Raphaël Lachièze-Rey, Ruichen Zhang, Sejin Park, Seonguk Seo, Shin Jaehoon, Taewoong Eom, Yeachan Park, Yongseok Jang, Youchan Oh, Zhaoyang Wang, Zoltán Kovács"
+    venue: "NeurIPS 2026 (Evaluations & Datasets Track)"
+    paper_pdf: "https://arxiv.org/abs/2605.09063"
+    selected: y
+
+  - title: "Evolution Fine-Tuning: Learning to Discover Across 371 Optimization Tasks"
+    authors: "Young-Jun Lee, <b><u>Seungone Kim</u></b>, Minki Kang, Alistair Cheong Liang Chuen, Zerui Chen, Seungho Han, Taehee Jung, Dongyeop Kang"
+    venue: "NeurIPS 2026"
+    paper_pdf: "https://arxiv.org/abs/2606.29082"
+    selected: y
+
+  - title: "LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL"
+    authors: "Yujin Kim, Namgyu Ho, Sangmin Hwang, Joonkee Kim, Yongjin Yang, Sangmin Bae, <b><u>Seungone Kim</u></b>, Jaehun Jung, Se-Young Yun, Hwanjun Song"
+    venue: "NeurIPS 2026"
+    paper_pdf: "https://arxiv.org/abs/2607.04412"
+    selected: y
 
   - title: "FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS"
     authors: "Chaeeun Kim, <b><u>Seungone Kim</u></b>"
-    venue: "Preprint Under Review"
+    venue: "NeurIPS 2026"
     paper_pdf: "https://arxiv.org/abs/2505.16409"
     selected: y
 
   - title: "K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts"
-    year: 2026
     authors: "Nahyun Lee, Dongkeun Yoon, Guijin Son, Geewook Kim, Dayoon Ko, Jeonghun Park, Haneul Yoo, Jaewon Cho, Junghun Park, Changyoon Lee, Kyochul Jang, Jaeyeon Kim, Eunsu Kim, Woojin Cho, <b><u>Seungone Kim</u></b>,"
     venue: "EMNLP 2026 Findings"
     paper_pdf: "https://arxiv.org/abs/2606.02404"

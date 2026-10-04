@@ -7,6 +7,18 @@ papers:
     code: "https://github.com/prometheus-eval/cmu-paper-reviewer"
     selected: y
 
+  - title: "EurekaBench: Measuring Agentic Ability to Discover New Scientific Insights"
+    authors: "Jiayi Geng, Zhengxuan Wu, Kevin S. Chen, <b><u>Seungone Kim</u></b>, Joseph Janssen, Zora Zhiruo Wang, Bhupalee Kalita, Runtian Gao, Aaron Ho, Andrew Oakleigh Nelson, Olexandr Isayev, Francisco Villaescusa-Navarro, Ching-Yao Lai, Howard Chen, Graham Neubig"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2610.00492"
+    selected: y
+
+  - title: "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research"
+    authors: "Sohyeon Kim, Yoonho Lee, Bo Liu, Dayoon Ko, Rulin Shao, <b><u>Seungone Kim</u></b>, Graham Neubig, Pang Wei Koh, Aakanksha Chowdhery, Akari Asai, Omar Khattab, Yejin Choi, Gunhee Kim, Chelsea Finn"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2610.02202"
+    selected: y
+
   - title: "Efficient Test-Time Adaptation through Human-AI Interaction"
     authors: "Zora Zhiruo Wang, Apurva Gandhi, Rulin Shao, Aspen Chen, Jonas Mueller, Zhiqi Liang, Jett Chen, Michael Ryan, Qianou Ma, Luxi He, Zhoujun Cheng, Andre He, <b><u>Seungone Kim</u></b>, Jiayi Geng, Mingqian Zheng, Weiwei Sun, Zheyuan Zhang, Xinran Zhao, Yike Wang, Abe Hou, Liwei Jiang, Pang Wei Koh, Diyi Yang, Graham Neubig, Daniel Fried"
     venue: "Preprint Under Review"

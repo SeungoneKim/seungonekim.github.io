@@ -14,10 +14,6 @@ papers:
     code: "https://github.com/prometheus-eval/cmu-paper-reviewer"
     selected: y
 
-<<<<<<< HEAD
-  - title: "Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs"
-    authors: "Guijin Son, <b><u>Seungone Kim</u></b>, Catherine Arnett, Hyunwoo Ko, Hyein Lee, Hyeonah Kang, Jiang Longxi, Jin Yun, JungYup Lee, Kyungmin Lee, Sam Yoosuk Kim, Sang Park, Seunghyeok Hong, SeungJae Lee, Seungyeop Yi, Shinae Shin, SunHye Bok, Sunyoung Shin, Yonghoon Ji, Youngtaek Kim, Hanearl Jung, Akari Asai, Graham Neubig, Sean Welleck, Youngjae Yu, Alexander B Ivanov, Boboev Muhammadjon, Chaeyoung Han, Christian Stump, Dmitrii Karp, Dohyun Kwon, DoYong Kwon, Duk-Soon Oh, Giovanni Resta, Greta Panova, Huiyun Noh, Hyungryul Baik, Hyungsun Bae, Inomov Mashrafdzhon, Jeewon Kim, Ji Eun Lee, Jiaqi Liu, Jieui Kang, Jimin Kim, Jon-Lark Kim, Junseo Yoon, Junwoo Jo, Kibeom Kim, Kiwoon Kwon, Mario Kummer, Max Mercer, Minjun Kim, Nahyun Lee, Ng Ze-An, Rafał Marcin Łochowski, Raphaël Lachièze-Rey, Ruichen Zhang, Sejin Park, Seonguk Seo, Shin Jaehoon, Taewoong Eom, Yeachan Park, Yongseok Jang, Youchan Oh, Zhaoyang Wang, Zoltán Kovács"
-=======
   - title: "EurekaBench: Measuring Agentic Ability to Discover New Scientific Insights"
     authors: "Jiayi Geng, Zhengxuan Wu, Kevin S. Chen, <b><u>Seungone Kim</u></b>, Joseph Janssen, Zora Zhiruo Wang, Bhupalee Kalita, Runtian Gao, Aaron Ho, Andrew Oakleigh Nelson, Olexandr Isayev, Francisco Villaescusa-Navarro, Ching-Yao Lai, Howard Chen, Graham Neubig"
     venue: "Preprint Under Review"
@@ -26,7 +22,6 @@ papers:
 
   - title: "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research"
     authors: "Sohyeon Kim, Yoonho Lee, Bo Liu, Dayoon Ko, Rulin Shao, <b><u>Seungone Kim</u></b>, Graham Neubig, Pang Wei Koh, Aakanksha Chowdhery, Akari Asai, Omar Khattab, Yejin Choi, Gunhee Kim, Chelsea Finn"
->>>>>>> 43f34c541f9aaeeb84032b69a5ce78a70713aade
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2610.02202"
     selected: y
@@ -81,20 +76,12 @@ papers:
     selected: y
 
   - title: "K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts"
-<<<<<<< HEAD
-    year: 2026
-=======
->>>>>>> 43f34c541f9aaeeb84032b69a5ce78a70713aade
     authors: "Nahyun Lee, Dongkeun Yoon, Guijin Son, Geewook Kim, Dayoon Ko, Jeonghun Park, Haneul Yoo, Jaewon Cho, Junghun Park, Changyoon Lee, Kyochul Jang, Jaeyeon Kim, Eunsu Kim, Woojin Cho, <b><u>Seungone Kim</u></b>,"
     venue: "EMNLP 2026 Findings"
     paper_pdf: "https://arxiv.org/abs/2606.02404"
     selected: y
 
-<<<<<<< HEAD
-  - title: "Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators"
-=======
   - title: "Scaling Evaluation-time Compute with Reasoning Models as Evaluators"
->>>>>>> 43f34c541f9aaeeb84032b69a5ce78a70713aade
     authors: "<b><u>Seungone Kim</u></b>*, Ian Wu*, Jinu Lee*, Xiang Yue, Seongyun Lee, Mingyeong Moon, Kiril Gashteovski, Carolin Lawrence, Julia Hockenmaier, Graham Neubig, Sean Welleck"
     venue: "ACL 2026 Findings"
     paper_pdf: "https://arxiv.org/abs/2503.19877"

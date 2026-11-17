@@ -14,6 +14,12 @@ papers:
     code: "https://github.com/prometheus-eval/cmu-paper-reviewer"
     selected: y
 
+  - title: "Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL"
+    authors: "Hyun Ryu, Jong-Heon Kim, Yiqing Xie, <b><u>Seungone Kim</u></b>, Carolyn Rose, Eunho Yang"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2610.33512"
+    selected: y
+
   - title: "EurekaBench: Measuring Agentic Ability to Discover New Scientific Insights"
     authors: "Jiayi Geng, Zhengxuan Wu, Kevin S. Chen, <b><u>Seungone Kim</u></b>, Joseph Janssen, Zora Zhiruo Wang, Bhupalee Kalita, Runtian Gao, Aaron Ho, Andrew Oakleigh Nelson, Olexandr Isayev, Francisco Villaescusa-Navarro, Ching-Yao Lai, Howard Chen, Graham Neubig"
     venue: "Preprint Under Review"
@@ -49,9 +55,15 @@ papers:
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2506.01789"
     selected: y
+
+  - title: "Aligning Autoresearch: Co-Improvement between Agents and Humans"
+    year: 2026
+    authors: "Tianjian Li*, Chuanyang Jin*, <b><u>Seungone Kim*</u></b>, Tong Chen, John Hoffman, Ping Yu, Eryk Helenowski, Swarnadeep Saha, Jack Lanchantin, Weizhe Yuan, Ilia Kulikov, Jason Weston"
+    venue: "Technical whitepaper (Meta FAIR)"
+    paper_pdf: "https://arxiv.org/abs/2610.38882"
+    selected: y
   
   - title: "Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs"
-    year: 2026
     authors: "Guijin Son, <b><u>Seungone Kim</u></b>, Catherine Arnett, Hyunwoo Ko, Hyein Lee, Hyeonah Kang, Jiang Longxi, Jin Yun, JungYup Lee, Kyungmin Lee, Sam Yoosuk Kim, Sang Park, Seunghyeok Hong, SeungJae Lee, Seungyeop Yi, Shinae Shin, SunHye Bok, Sunyoung Shin, Yonghoon Ji, Youngtaek Kim, Hanearl Jung, Akari Asai, Graham Neubig, Sean Welleck, Youngjae Yu, Alexander B Ivanov, Boboev Muhammadjon, Chaeyoung Han, Christian Stump, Dmitrii Karp, Dohyun Kwon, DoYong Kwon, Duk-Soon Oh, Giovanni Resta, Greta Panova, Huiyun Noh, Hyungryul Baik, Hyungsun Bae, Inomov Mashrafdzhon, Jeewon Kim, Ji Eun Lee, Jiaqi Liu, Jieui Kang, Jimin Kim, Jon-Lark Kim, Junseo Yoon, Junwoo Jo, Kibeom Kim, Kiwoon Kwon, Mario Kummer, Max Mercer, Minjun Kim, Nahyun Lee, Ng Ze-An, Rafał Marcin Łochowski, Raphaël Lachièze-Rey, Ruichen Zhang, Sejin Park, Seonguk Seo, Shin Jaehoon, Taewoong Eom, Yeachan Park, Yongseok Jang, Youchan Oh, Zhaoyang Wang, Zoltán Kovács"
     venue: "NeurIPS 2026 (Evaluations & Datasets Track)"
     paper_pdf: "https://arxiv.org/abs/2605.09063"
